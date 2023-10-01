@@ -1,0 +1,19 @@
+.header {
+    height: 80px;
+    width: 1218px;
+    background: #e6d2d2;
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.header_right{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.header_right h5:hover {
+    color: aquamarine;
+}
