@@ -1,0 +1,22 @@
+.product_container{
+    margin-left: 32px;
+}
+.product_container img {
+    width: 845px;
+    height: 425px;
+
+}
+.name_time {
+    display: flex;
+    justify-content: space-between;
+}
+.name_time p {
+    margin-right: 100px;
+    margin-top: 0;
+}
+.name_time a {
+    text-decoration: none;
+}
+.name_time h3 {
+    margin-bottom: 0;
+}

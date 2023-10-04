@@ -1,0 +1,54 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "category": "Men's Sneaker",
+        "name": "Mrs. Azure",
+        "seller": "Walton LTD on done",
+        "period": 42,
+        "time": 22,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://media.istockphoto.com/id/1444187242/photo/team-of-people-working-with-touchscreen-display-for-gaming-app.jpg?s=1024x1024&w=is&k=20&c=ZLa4gcEHUU8oue55CKJzar3RwHaQyCOkIL3lBq7zTRo=",
+        "shipping": 1,
+        "quantity": 1
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Men's Sneaker",
+        "name": "Mrs. Pitarson",
+        "seller": "BrainStation software firm",
+        "period": 20,
+        "time": 30,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://media.istockphoto.com/id/1444186999/photo/multiethnic-team-of-employees-talking-about-engine-component.jpg?s=1024x1024&w=is&k=20&c=QvhoRrVsdOCK9cAGroESg-Reli3Xozbk5uRHLF90H00=",
+        "shipping": 14,
+        "quantity": 1
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Men's Sneaker",
+        "name": "Mrs. Jaks",
+        "seller": "Datasoft software company",
+        "period": 42,
+        "time": 10,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://media.istockphoto.com/id/1451456915/photo/female-freelance-developer-coding-and-programming-coding-on-two-with-screens-with-code.jpg?s=1024x1024&w=is&k=20&c=8OiGJDGnvfIMbKUz4zrs4HWEBuMsguEHU4j7vuohX3c=",
+        "shipping": 14,
+        "quantity": 1
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "category": "Men's Sneaker",
+        "name": "Mrs. Rangs",
+        "seller": "Addidas",
+        "period": 420,
+        "time": 20,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://media.istockphoto.com/id/1223455287/photo/young-business-woman-day-trading-from-her-dining-room-table.jpg?s=1024x1024&w=is&k=20&c=XbzDmDS1DAQhb8bnyan4rNRXCVaDOC3X0hCYHN3_DKY=",
+        "shipping": 14,
+        "quantity": 1  
+    }
+]
